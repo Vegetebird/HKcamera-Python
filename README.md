@@ -1,4 +1,4 @@
-# HKcamera-Python
+# Python程序实时读取海康摄像头
 
 ```python
 python test_camera.py
